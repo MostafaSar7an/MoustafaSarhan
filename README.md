@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostfa Khaled</h1>
-<h3 align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Mostafa+Khaled;Full+Stack+Web+Developer;Owner+Coudera)](https://git.io/typing-svg)
+<h3 align="center">(https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Mostafa+Khaled;Full+Stack+Web+Developer;Owner+Coudera)](https://git.io/typing-svg)
   A passionate full Stack Web developer from Egypt</h3>
 
 
