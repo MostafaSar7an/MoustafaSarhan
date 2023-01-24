@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mostfa Khaled</h1>
-<h3 align="center">A passionate full Stack Web developer from Egypt</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Mostafa+Khaled;Full+Stack+Web+Developer;Owner+Coudera)](https://git.io/typing-svg)
+<h3 align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Mostafa+Khaled;Full+Stack+Web+Developer;Owner+Coudera)](https://git.io/typing-svg)
+  A passionate full Stack Web developer from Egypt</h3>
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mostafa-khaled-sarhan&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa-khaled-sarhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafa-khaled-sarhan" alt="mostafa-khaled-sarhan" /></a> </p>
